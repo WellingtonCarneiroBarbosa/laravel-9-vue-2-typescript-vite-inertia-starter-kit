@@ -6,7 +6,7 @@ PHP ^8.1 | Node ^18.1 | Composer | Npm/Yarn
 
 ## Instalation
 1. Clone the repo
-`git clone https://github.com/WellingtonCarneiroBarbosa/laravel-9-vue-2-typescript-vite-inertia-starter-kit.git`
+`git clone https://github.com/WellingtonCarneiroBarbosa/laravel-9-vue-2-typescript-vite-inertia-starter-kit.git laravel-starter`
 
 2. Install the PHP Dependencies
 `composer install`
