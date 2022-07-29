@@ -5,7 +5,7 @@ The fastest way to use Laravel 9 + Vue.js 2 + Vite + InertiaJs + TypeScript
 PHP ^8.1 | Node ^18.1 | Composer | Npm/Yarn
 
 ## Instalation
-1. Clone the repo;
+1. Clone the repo
 `git clone https://github.com/WellingtonCarneiroBarbosa/laravel-9-vue-2-typescript-vite-inertia-starter-kit.git`
 
 2. Install the PHP Dependencies
