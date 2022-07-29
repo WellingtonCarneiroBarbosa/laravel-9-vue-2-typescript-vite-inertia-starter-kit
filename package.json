@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "devDependencies": {
+        "laravel-vite": "^0.0.19",
+        "typescript": "^4.4.4",
+        "vite": "^2.6.0",
+        "vite-plugin-vue2": "^1.9.0"
+    },
+    "dependencies": {
+        "@inertiajs/inertia": "^0.10.1",
+        "@inertiajs/inertia-vue": "^0.7.2",
+        "vue": "^2.6.14",
+        "ziggy-js": "^1.4.2"
+    }
+}
