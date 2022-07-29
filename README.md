@@ -1,7 +1,7 @@
 # Starter Kit
 The fastest way to use Laravel 9 + Vue.js 2 + Vite + InertiaJs + TypeScript
 
-# Requirements
+## Requirements
 PHP ^8.1 | Node ^18.1 | Composer | Npm/Yarn
 
 ## Instalation
